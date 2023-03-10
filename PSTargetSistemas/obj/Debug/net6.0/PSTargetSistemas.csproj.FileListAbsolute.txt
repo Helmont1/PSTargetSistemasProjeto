@@ -1,0 +1,12 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\bin\Debug\net6.0\PSTargetSistemas.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\bin\Debug\net6.0\PSTargetSistemas.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\bin\Debug\net6.0\PSTargetSistemas.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\refint\PSTargetSistemas.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\PSTargetSistemas.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\Cs\PSTargetSistemas\obj\Debug\net6.0\ref\PSTargetSistemas.dll
